@@ -1,0 +1,23 @@
+{
+  "name": "Text-Editor-with-ElectroJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPCLima/Text-Editor-with-ElectroJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPCLima/Text-Editor-with-ElectroJS/issues"
+  },
+  "homepage": "https://github.com/JPCLima/Text-Editor-with-ElectroJS#readme",
+  "dependencies": {
+    "electron": "^10.1.5"
+  }
+}
