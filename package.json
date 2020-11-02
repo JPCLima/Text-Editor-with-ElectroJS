@@ -19,5 +19,8 @@
   "homepage": "https://github.com/JPCLima/Text-Editor-with-ElectroJS#readme",
   "dependencies": {
     "electron": "^10.1.5"
+  },
+  "devDependencies": {
+    "electron-builder": "^22.9.1"
   }
 }
